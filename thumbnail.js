@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         if (targetImage.classList.contains("small")) {
              targetImage.classList.remove("small");
        } else {
-           targetImage.classList.add("small");
+         targetImage.classList.add("small");
 }
 });
 });
