@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
           
              targetImage.classList.remove("small");
        } else {
-        
          targetImage.classList.add("small");
 }
 });
